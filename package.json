@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "Our fiirst node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshi-shitole/creating-first-server.git"
+  },
+  "author": "Sakshi Shitole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakshi-shitole/creating-first-server/issues"
+  },
+  "homepage": "https://github.com/sakshi-shitole/creating-first-server#readme"
+}
